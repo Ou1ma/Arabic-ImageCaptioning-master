@@ -1,0 +1,8 @@
+!pip install tensorflow==2.10.0
+!pip install keras==2.10.0
+!pip install Keras-Applications
+!pip install Keras-Preprocessing
+!pip install keras_tqdm
+!pip install python-bidi
+!pip install pyarabic
+!pip install arabic_reshaper
